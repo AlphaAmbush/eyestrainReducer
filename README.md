@@ -11,7 +11,7 @@ The 20-20-20 rule suggests that for every 20 minutes spent looking at a screen, 
 - **Popup Reminder**: The app pops up a reminder window every 20 minutes, reminding the user to take a break.
 - **Minimization**: After displaying the reminder, the app automatically minimizes itself after 20 seconds, allowing the user to continue their work uninterrupted.
 - **Start Button**: The user can manually start the reminder process by clicking the "Start" button.
-- - **Installed exe**: For windows eye_manager.zip is provided where the exe is already installed please use the same
+- **Installed exe**: For windows eye_manager.zip is provided where the exe is already installed please use the same
 
 ## Usage
 ### Windows:
